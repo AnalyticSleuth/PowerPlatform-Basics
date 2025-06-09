@@ -17,3 +17,8 @@ https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa
 
 🚀 Stay tuned as more examples are added!  
 📫 Questions? Connect via [LinkedIn](https://linkedin.com/in/shilla)!
+<p align="center">
+  <img src=
+https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa4460249a0/images/Animation%20-%201749133072046.gif
+width="250px"
+</p>
