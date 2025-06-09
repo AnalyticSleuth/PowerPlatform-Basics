@@ -19,6 +19,6 @@ https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa
 📫 Questions? Connect via [LinkedIn](https://linkedin.com/in/shilla)!
 <p align="center">
   <img src=
-https://github.com/AnalyticSleuth/test-file/blob/6e1cd75edb90fd4f10abf1354f5b0aa4460249a0/images/Animation%20-%201749133072046.gif
-width="250px"
+https://github.com/AnalyticSleuth/PowerPlatform-Basics/blob/0e698c79740dc2b122543e9ff01bbbb931699391/Assets/Animation%20-%201749133509471.gif
+    width="150px"
 </p>
